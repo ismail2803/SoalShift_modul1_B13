@@ -1,5 +1,6 @@
 #!/bin/bash
 
+cd /home/ismail/sisop/SoalShift_modul1_B13
 unzip nature.zip
 
 for eachfile in /home/ismail/sisop/SoalShift_modul1_B13/nature/*
